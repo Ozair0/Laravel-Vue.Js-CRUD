@@ -49,7 +49,7 @@ article_id/title/body
 ```
 
 ### Keep Coding
-```
+``` bash
 if(whatever){
    code; 
 }else{
